@@ -3,7 +3,7 @@
 SIFT is one of the most famous classical method for feature detection here is a higly vectorized version of SIFT implementation.  
 Implementation of Scale Invariant Feature Transform(SIFT) for feature detection:
 
-<h1 align="center"># Input Image:  
+# <h1 align="center"> Input Image:  
 
   
  
