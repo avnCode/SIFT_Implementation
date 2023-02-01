@@ -1,10 +1,10 @@
 # SIFT_Implementation
 
-SIFT is one of the most famous classical method for feature detection here is a higly vectorized version of SIFT implementation.
+SIFT is one of the most famous classical method for feature detection here is a higly vectorized version of SIFT implementation.  
 Implementation of Scale Invariant Feature Transform(SIFT) for feature detection:
 
 Here is the Input Image:
-
+<p align="center">
 ![Eifel Tower](https://user-images.githubusercontent.com/111170719/216111066-16bfe855-46c0-4350-bf72-2928d645960d.jpg)
 
 Output of SIFT algorithm for feature detection:
