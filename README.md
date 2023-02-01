@@ -16,11 +16,11 @@ Implementation of Scale Invariant Feature Transform(SIFT) for feature detection:
 
 Output of SIFT algorithm for feature detection:
 
-<p align="center">
+<h1 align="center">
 
 
 ![Screenshot (232)](https://user-images.githubusercontent.com/111170719/216111264-1d72303a-b325-47a6-ac71-9c14bf4efae4.png)
 
 
-  </p>
+  </h1>
   
