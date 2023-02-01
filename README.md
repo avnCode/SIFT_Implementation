@@ -14,7 +14,7 @@ Implementation of Scale Invariant Feature Transform(SIFT) for feature detection:
   
 ![Eifel Tower](https://user-images.githubusercontent.com/111170719/216111066-16bfe855-46c0-4350-bf72-2928d645960d.jpg)
 
-  </h1>
+ </h1>
 
 
   
